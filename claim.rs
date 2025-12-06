@@ -1,1 +1,1 @@
-// this is a comment in rust
+// this is a line comment in rust
